@@ -81,16 +81,13 @@
 
 <h2 align="left">🤝 Connect With Me</h2>
 <p align="left">
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/aminhossinpour" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mohammadamin2001hos@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/hpaminm" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
