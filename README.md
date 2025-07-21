@@ -73,8 +73,6 @@
 
 <div align="center">
   
-[![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpamin&show_icons=true&theme=react&hide_border=true&count_private=true)](https://github.com/hpamin)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpamin&layout=compact&theme=react&hide_border=true)](https://github.com/hpamin)
   
 </div>
