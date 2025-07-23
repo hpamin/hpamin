@@ -18,7 +18,7 @@
 <div align="center" style="margin: 2rem 0">
   <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hpamin&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    <img width="48%" src="https://streak-stats.demolab.com?user=hpamin&theme=react&border_radius=6&mode=weekly&fire=DD2727" alt="GitHub Streak" />
+    <img width="48%" src="https://streak-stats.demolab.com/?user=hpamin&theme=react&border_radius=6&mode=weekly&fire=DD2727" alt="GitHub Streak" />
   </div>
 </div>
 
@@ -49,13 +49,13 @@
 ### 🧰 Development Ecosystem
 <p>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo.svg" alt="Zustand" title="Zustand" width="50" height="50"/>
+    <img src="https://seeklogo.com/images/Z/zustand-logo-8B7D989C1F-seeklogo.com.png" alt="Zustand" title="Zustand" width="50" height="50"/>
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="50" height="50"/>
   </a>
   <a href="https://refine.dev/" target="_blank" rel="noreferrer">
-    <img src="[https://refine.ams3.cdn.digitaloceanspaces.com/logo/refine.svg](https://images.seeklogo.com/logo-png/51/1/refine-logo-png_seeklogo-518202.png)" alt="Refine" title="Refine" width="50" height="50"/>
+    <img src="https://seeklogo.com/images/R/refine-logo-7C907DAC1B-seeklogo.com.png" alt="Refine" title="Refine" width="50" height="50"/>
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" width="50" height="50"/>
@@ -95,7 +95,7 @@
 - 🌱 Mastering advanced React patterns and micro-frontend architectures
 - 🔍 Exploring WebAssembly for performance-critical web applications
 - 📚 Contributing to open-source projects in the React ecosystem
-- 🎯 Optimizing bundle sizes and improving CI/CD pipelines
+- � Optimizing bundle sizes and improving CI/CD pipelines
 
 </div>
 
