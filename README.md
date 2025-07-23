@@ -55,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" width="50" height="50"/>
   </a>
   <a href="https://refine.dev/" target="_blank" rel="noreferrer">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/logo/refine.svg" alt="Refine" title="Refine" width="50" height="50"/>
+    <img src="[https://refine.ams3.cdn.digitaloceanspaces.com/logo/refine.svg](https://images.seeklogo.com/logo-png/51/1/refine-logo-png_seeklogo-518202.png)" alt="Refine" title="Refine" width="50" height="50"/>
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" width="50" height="50"/>
